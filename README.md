@@ -1,3 +1,4 @@
 # Network-Node-Server
-Network-Node-Server\n
+Network-Node-Server
+  
 docs: https://flyingcart.kr/docs/network.html
